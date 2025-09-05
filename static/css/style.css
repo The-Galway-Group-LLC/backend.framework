@@ -1,0 +1,6 @@
+/* This custom css file is used at the header component level 
+giving the same look throughout the entire app */
+
+h1 {
+    font-family: 'Times New Roman';
+}

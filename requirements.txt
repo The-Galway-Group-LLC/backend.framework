@@ -1,0 +1,10 @@
+#use this to install packages on your webapp. All python libraries 
+# you use in app.py are required to be listed here. They need to be the
+# PyPI.org install name, not the python library name
+
+
+#you can also locally run "pip install -r requirements.txt" at the root of this folder 
+#and it will install all requirements after python is installed
+flask
+requests
+python-dotenv

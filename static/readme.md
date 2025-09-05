@@ -1,0 +1,1 @@
+This folder is where you'll store your JS files or images or whatever you reference in your template files

@@ -1,0 +1,6 @@
+# This file excludes any files when committing to a repo. 
+# Make sure .env is uncommented but for this example we'll keep it commented
+# * is your wildcard
+
+#.env
+*.json
